@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov 14 21:29:17 2016
-
 @author: Augustin
 """
 
